@@ -3,7 +3,7 @@ Plugin Berserk Armor and Sword Get it Free
 
 ---
 ## Plugin.yml
-```
+```yml
 name: Berserk
 main: V3lheiz\Main
 version: 1.1.0
@@ -17,4 +17,7 @@ author: V3lheiz
 - ``` /give {player} berserk_chestplate ```
 - ``` /give {player} berserk_leggings ```
 - ``` /give {player} berserk_boots ```
-Or Checks on your creative inventory armor
+
+```javascript
+// or checks on your creative inventory armor
+```
