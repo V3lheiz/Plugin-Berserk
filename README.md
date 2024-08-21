@@ -11,9 +11,10 @@ api: [5.0.0]
 author: V3lheiz
 ```
 ---
-## Command Give Server
-- ``` /give {playergametag} dragon_slayer ```
-- ``` /give {playergametag} berserk_helmet ```
-- ``` /give {playergametag} berserk_chestplate ```
-- ``` /give {playergametag} berserk_leggings ```
-- ``` /give {playergametag} berserk_boots ```
+## How To Get A Armor and sword? 
+- ``` /give {player} dragon_slayer ```
+- ``` /give {player} berserk_helmet ```
+- ``` /give {player} berserk_chestplate ```
+- ``` /give {player} berserk_leggings ```
+- ``` /give {player} berserk_boots ```
+Or Checks on your creative inventory armor
