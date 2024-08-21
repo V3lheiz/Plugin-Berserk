@@ -12,8 +12,8 @@ author: V3lheiz
 ```
 ---
 ## Command Give Server
-``` /give {playergametag} dragon_slayer ```
-``` /give {playergametag} berserk_helmet ```
-``` /give {playergametag} berserk_chestplate ```
-``` /give {playergametag} berserk_leggings ```
-``` /give {playergametag} berserk_boots ```
+- ``` /give {playergametag} dragon_slayer ```
+- ``` /give {playergametag} berserk_helmet ```
+- ``` /give {playergametag} berserk_chestplate ```
+- ``` /give {playergametag} berserk_leggings ```
+- ``` /give {playergametag} berserk_boots ```
